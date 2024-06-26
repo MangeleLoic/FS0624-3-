@@ -1,0 +1,25 @@
+body  {
+    background-color: royalblue ;
+    text-align: center;
+    padding: 40px;
+}
+
+#nuovaTask p {
+    font-style: italic;
+    cursor: pointer;
+  position: relative;
+  
+  
+  
+}
+#nuovaTask {
+    text-align: left;
+    color: white;
+
+    
+}
+p {
+    background: #888;
+    color: #fff;
+    
+}
